@@ -7,7 +7,7 @@
   .transparent {
     background-color: transparent!important;
   }
-
+sudo service docker start
   section.transparent img {
     background-color: transparent!important;
   }
@@ -31,7 +31,7 @@
     margin-left: 5%;
     margin-right: 5%;
     font-size: 28px;
-    text-align: justify;
+    text-align: center;
   }
 
   .conteudo-absoluto {
@@ -53,6 +53,7 @@
   }
   .regular {
     font-size: 18px;
+    font-family: Georgia, serif;
   }
   .small {
     font-size: 16px;
